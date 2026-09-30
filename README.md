@@ -15,5 +15,3 @@ Connect the mBot 2, upload the code, and test the robot.
 
 ## Teacher
 Melisa Vasija
-
-![](mbot2-parts.png)
